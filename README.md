@@ -47,9 +47,10 @@ The platform architecture was designed based on a detailed study of three core u
 
 
 ##Screenshot
+<img width="342" height="700" alt="Screenshot 1447-12-01 at 9 43 33 PM" src="https://github.com/user-attachments/assets/c2473144-2217-4533-a39c-dc25a4f20e8e" />
 <img width="361" height="707" alt="Screenshot 1447-12-01 at 9 44 08 PM" src="https://github.com/user-attachments/assets/b23606fe-cada-41f3-9175-1ec4646bf20d" />
 <img width="337" height="694" alt="Screenshot 1447-12-01 at 9 49 59 PM" src="https://github.com/user-attachments/assets/b588a364-594c-484a-af34-8469f7730fcd" />
 <img width="354" height="703" alt="Screenshot 1447-12-01 at 9 53 38 PM" src="https://github.com/user-attachments/assets/06416f15-3366-4cfa-84b9-ccf3295a1bc5" />
-<img width="342" height="700" alt="Screenshot 1447-12-01 at 9 43 33 PM" src="https://github.com/user-attachments/assets/c2473144-2217-4533-a39c-dc25a4f20e8e" />
+
 
 
