@@ -46,7 +46,7 @@ The platform architecture was designed based on a detailed study of three core u
 🔗 **Project Digital Portfolio:** [nebras64.wordpress.com](https://nebras64.wordpress.com)
 
 
-##Screenshot
+## Screenshot
 <img width="342" height="700" alt="Screenshot 1447-12-01 at 9 43 33 PM" src="https://github.com/user-attachments/assets/c2473144-2217-4533-a39c-dc25a4f20e8e" />
 <img width="361" height="707" alt="Screenshot 1447-12-01 at 9 44 08 PM" src="https://github.com/user-attachments/assets/b23606fe-cada-41f3-9175-1ec4646bf20d" />
 <img width="337" height="694" alt="Screenshot 1447-12-01 at 9 49 59 PM" src="https://github.com/user-attachments/assets/b588a364-594c-484a-af34-8469f7730fcd" />
